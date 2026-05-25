@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+.env
+.strava_token.json
+gpx/*.gpx
