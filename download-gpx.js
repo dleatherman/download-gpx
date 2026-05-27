@@ -3,12 +3,6 @@
 /**
  * Strava GPX Downloader
  * Downloads all your Strava activities as GPX files.
- *
- * Usage:
- *   1. Fill in your CLIENT_ID and CLIENT_SECRET below
- *   2. Run: node download-gpx-v2.js
- *   3. Authorize in the browser that opens
- *   4. GPX files will be saved to ./gpx/
  */
 
 const http = require("http");
