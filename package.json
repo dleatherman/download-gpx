@@ -4,6 +4,7 @@
   "description": "Script to download gpx files from Strava",
   "main": "download-gpx.js",
   "scripts": {
+    "download": "node download-gpx.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
